@@ -10,7 +10,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Random color
+## About the project
 
 [![Product Name Screen Shot][product-screenshot]](https://slimake.github.io/Random-color/)
 
