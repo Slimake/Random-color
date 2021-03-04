@@ -8,5 +8,6 @@ btn.addEventListener("click", function() {
 	const blue = Math.floor(Math.random() * 256);
 	const randomColor = `rgb(${red}, ${green}, ${blue})`;
 	body.style.backgroundColor = randomColor;
+	colorText.classList.add("color-text-bg");
 	colorText.textContent = randomColor;
 });
